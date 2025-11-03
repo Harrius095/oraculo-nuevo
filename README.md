@@ -71,16 +71,6 @@ python gui.py
    - Exportar conversaciones
    - Evaluar respuestas
 
-## 📸 Capturas de Pantalla
-
-### Interfaz Principal
-![Interfaz Principal](https://via.placeholder.com/800x600.png?text=Interfaz+Principal)
-
-### Análisis de Imágenes
-![Análisis de Imágenes](https://via.placeholder.com/800x600.png?text=An%C3%A1lisis+de+Im%C3%A1genes)
-
-### Detector de Almas
-![Detector de Almas](https://via.placeholder.com/800x600.png?text=Detector+de+Almas)
 
 ## 🎯 Funcionalidades Implementadas
 
