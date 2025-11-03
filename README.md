@@ -35,7 +35,7 @@ Una aplicación de chat inteligente con interfaz gráfica que utiliza la API de 
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/oraculo-gemini.git
+git clone https://github.com/Harrius095/oraculo-nuevo
 cd oraculo-gemini
 ```
 
